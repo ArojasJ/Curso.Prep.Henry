@@ -16,10 +16,10 @@ function mayoriaDeEdad(edad) {
   //Si tiene 18 años ó más, devolver --> "Allowed"
   //Si es menor, devolver --> "Not allowed"
   if(edad >= 18) {
-    return "Allowed";
+    return "allowed";
   }
   else {
-    return "Not Allowed";
+    return "Not allowed";
   }
 }
   
@@ -47,7 +47,7 @@ function saludo(idioma) {
   // Si "idioma" es "ingles", devuelve "Hello!"
   // Si "idioma" no es ninguno de los anteiores o es `undefined` devuelve "Hola!"
   // Tu código:
-  if (idioma === aleman) {
+  if ( idioma === Aleman) {
     return "Guten Tag!";
   }
   else if ( idioma === mandarin) {
