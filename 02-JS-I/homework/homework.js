@@ -26,6 +26,7 @@ const nuevoModulo = 21 % 5 === 1;
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
+StyleSheet
 
 function devolverString(str) {
   // "Return" la string provista: str
